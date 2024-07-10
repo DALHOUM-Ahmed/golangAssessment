@@ -5,8 +5,6 @@ This project implements a file registry on the Binance Smart Chain (BSC) testnet
 ## Prerequisites
 
 - Docker and Docker Compose
-- Go 1.21 or higher
-- IPFS installed and running
 
 ## Project Structure
 
